@@ -1,0 +1,196 @@
+﻿<!doctype html>
+
+<html lang="zh">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>impress.js | presentation tool based on the power of CSS3 transforms and transitions in modern browsers | by Bartek Szopka @bartaz</title>
+    
+    <meta name="description" content="impress.js is a presentation tool based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com." />
+    <meta name="author" content="Bartek Szopka" />
+
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
+
+
+    <link href="css/impress-demo.css" rel="stylesheet" />
+    
+    <link rel="shortcut icon" href="favicon.png" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+</head>
+
+
+
+<body class="impress-not-supported">
+
+
+
+<div class="fallback-message">
+    <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+    <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+</div>
+
+
+<div id="impress">
+
+ 
+    <div id="bored" class="step slide" data-x="-1000" data-y="-1500">
+        <q>December.14th.<br></br><h1><font size ="200"><b>&nbsp&nbsp&nbsp和山小霸王</b></font></h1> <br></br>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp出发啦！！！</q>
+    </div>
+
+    <div class="step slide" data-x="0" data-y="-1500">
+        <q>周日开始起的友谊，周一开始起的经历 <strong>我们</strong>。。。<strong>我们</strong>。。。</q>
+    </div>
+
+    <div class="step slide" data-x="1000" data-y="-1500">
+        <q>就在这一天 <strong>我们</strong> 来到了这里。。。 <strong>同沐阳光</strong></q>
+        <br></br>
+        <p>和山小霸王们，你们是最棒哒！</p>
+    </div>
+ <div id="title" class="step" data-x="0" data-y="0" data-scale="4">
+        <span class="try">then let's enjoy</span>
+        <h1>小霸王<sup>*</sup></h1>
+        <span class="footnote"><sup>*</sup>美美哒照片~</span>
+    </div>
+
+  
+  
+    <div id="picture" class="step slide" data-x="-1000" data-y="1000">
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>用CSS3滑动图像面板图片切换特效多种css3图片切换演示</title>
+<meta name="description" content="用css3图片切换特效制作css3滑动图像面板,设置类似js滤镜百叶窗效果的css3图片切换特效。css3手册,css3 动画。" />
+<link rel="stylesheet" type="text/css" href="css/demo.css" />
+<link rel="stylesheet" type="text/css" href="css/style4.css" />
+</head>
+<body>
+
+<div class="container">
+
+	<header>
+		<h1><span>美图</span>OF 和山小霸王</h1>
+		
+	</header>
+	
+	<section class="cr-container">				
+		<input id="select-img-1" name="radio-set-1" type="radio" class="cr-selector-img-1" checked/>
+		<label for="select-img-1" class="cr-label-img-1">1</label>
+		
+		<input id="select-img-2" name="radio-set-1" type="radio" class="cr-selector-img-2" />
+		<label for="select-img-2" class="cr-label-img-2">2</label>
+		
+		<input id="select-img-3" name="radio-set-1" type="radio" class="cr-selector-img-3" />
+		<label for="select-img-3" class="cr-label-img-3">3</label>
+		
+		<input id="select-img-4" name="radio-set-1" type="radio" class="cr-selector-img-4" />
+		<label for="select-img-4" class="cr-label-img-4">4</label>
+		
+		<div class="clr"></div>	
+		<div class="cr-bgimg">
+			<div>
+				<span>片1 - 图片1</span>
+				<span>片1 - 图片2</span>
+				<span>片1 - 图片3</span>
+				<span>片1 - 图片4</span>
+			</div>
+			<div>
+				<span>片2 - 图片1</span>
+				<span>片2 - 图片2</span>
+				<span>片2 - 图片3</span>
+				<span>片2 - 图片4</span>
+			</div>
+			<div>
+				<span>片3 - 图片1</span>
+				<span>片3 - 图片2</span>
+				<span>片3 - 图片3</span>
+				<span>片3 - 图片4</span>
+			</div>
+			<div>
+				<span>片4 - 图片1</span>
+				<span>片4 - 图片2</span>
+				<span>片4 - 图片3</span>
+				<span>片4 - 图片4</span>
+			</div>
+		</div>
+		<div class="cr-titles">
+			<h3><span>情缘</span><span>你一直梦想</span></h3>
+			<h3><span>冒险</span><span>凡有趣的开始</span></h3>
+			<h3><span>性质</span><span>难忘的经历</span></h3>
+			<h3><span>宁静</span><span>当沉默接触大自然</span></h3>
+		</div>
+	</section>
+</div>
+
+</body>
+</html>
+
+    </div>
+    
+  
+    <div id="its" class="step" data-x="850" data-y="3000" data-rotate="90" data-scale="5">
+        <p> <strong>前期准备：</strong> <br/>
+        周一开始卖水 <br/>
+        遭到警告<strong>T T</strong> 后几天老实了下来。。。。</p>
+    </div>
+
+    <div id="big" class="step" data-x="3500" data-y="2100" data-rotate="180" data-scale="6">
+        <p>请看 <b>小霸王的</b> <span class="thoughts">大视频</span></p>
+    </div>
+
+ 
+    <div id="tiny" class="step" data-x="2825" data-y="2325" data-z="-3000" data-rotate="300" data-scale="1">
+        <p>此处插入浙大学生的视频</p>
+    </div>
+
+  
+    <div id="ing" class="step" data-x="3500" data-y="-850" data-rotate="270" data-scale="6">
+        <p>一路上，我们通过<b class="positioning">卖冰糖葫芦</b>, <b class="rotating">找定胜糕</b>以及<b class="scaling">拍照</b>来获得加分~</p>
+    </div>
+
+    <div id="imagination" class="step" data-x="6700" data-y="-300" data-scale="6">
+        <p>插入冰糖葫芦照片</b></p>
+    </div>
+
+    <div id="source" class="step" data-x="6300" data-y="2000" data-rotate="20" data-scale="4">
+        <p》插入定胜糕之类的照片，秀秀午饭,和老人等合影</p>
+       
+    </div>
+
+    <div id="one-more-thing" class="step" data-x="6000" data-y="4000" data-scale="2">
+        <p>At last</p>
+    </div>
+
+    <div id="its-in-3d" class="step" data-x="6200" data-y="4300" data-z="-100" data-rotate-x="-40" data-rotate-y="10" data-scale="2">
+        <p><span class="have">无论</span> <span class="you">结局</span> <span class="noticed">是好或不那么好。</span> <span class="its">我们无悔于今天的成长，今天的骄傲。</span> <span class="in"></p>
+        <span class="footnote">* 被黑的部长团千万别生气哦，求不封杀 (>_<)~~~</span>
+    </div>
+
+   
+    <div id="overview" class="step" data-x="3000" data-y="1500" data-scale="10">
+    </div>
+
+</div>
+
+
+<div class="hint">
+    <p>Use a spacebar or arrow keys to navigate</p>
+</div>
+<script>
+if ("ontouchstart" in document.documentElement) { 
+    document.querySelector(".hint").innerHTML = "<p>Tap on the left or right to navigate</p>";
+}
+</script>
+
+
+<script src="js/impress.js"></script>
+<script>impress().init();</script>
+
+
+
+</body>
+</html>
+
+
+
